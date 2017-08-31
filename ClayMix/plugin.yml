@@ -1,0 +1,4 @@
+name: ClayMix
+main: com.themantlemc.clayMix.ClayMix
+version: 1.0
+commands:

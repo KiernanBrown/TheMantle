@@ -1,0 +1,4 @@
+name: Lobby
+main: us.mcempires.lobby.Lobby
+version: 1.0
+commands:

@@ -1,0 +1,22 @@
+name: ControlHeroes
+main: com.themantlemc.controlHeroes.ControlPoint
+version: 1.0
+commands:
+  class:
+    description: Allows the player to select a class
+    usage: /class
+  perk:
+    description: Allows the player to select and upgrade perks
+    usage: /perk
+  team:
+    description: Allows the player to select a team
+    usage: /team
+  stats:
+    description: Allows the player to view the stats of a selected player
+    usage: /stats
+  cpstart:
+    description: Starts the game
+    usage: /cpstart
+  cpend:
+    description: Ends the game
+    usage: /cpend

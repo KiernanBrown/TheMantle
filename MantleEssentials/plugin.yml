@@ -1,0 +1,18 @@
+name: MantleEssentials
+main: com.themantlemc.mantleEssentials.MantleEssentials
+version: 1.0
+depend: [NoteBlockAPI]
+commands:
+  msg:
+    description: Allows players to message other players
+    usage: /msg
+    aliases: [tell, w]
+  r:
+    description: Sends a message to the last player you messaged
+    usage: /r
+  music:
+    description: Opens the music menu for the player
+    usage: /music
+  rank:
+    description: Sets the rank of a player
+    usage: /rank

@@ -1,0 +1,4 @@
+name: TheParkourProject
+main: com.themantlemc.theParkourProject.TheParkourProject
+version: 1.0
+commands:
